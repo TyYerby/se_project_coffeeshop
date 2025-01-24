@@ -5,6 +5,8 @@
   align-items: center;
   background-color: #fff;
   background-image: url(../images/background_menu.svg);
+  background-position: center;
+  background-position: cover;
 }
 .menu__title {
   margin: 0 0 24px;
