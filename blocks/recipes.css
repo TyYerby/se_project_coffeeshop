@@ -42,7 +42,7 @@
   font-size: 20px;
   line-height: 30px;
   margin-top: 24px;
-  margin: 0;
+  margin: 24px 0 0;
 }
 .recipes__iframe {
   width: 480px;
